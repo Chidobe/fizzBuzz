@@ -1,0 +1,19 @@
+html {
+    font-size: ;
+    font-family: ;
+    
+}
+
+body {
+    margin: 50px;
+    display: flex;
+    justify-content: space-around;
+}
+ button {
+     background-color: green;
+     border: none;
+     border-radius: 8px;
+     box-shadow: 1px 1px 4px 1px rgba(54, 52, 52, 0.5);
+     color: white;
+     padding: 0px 10px;
+ }
